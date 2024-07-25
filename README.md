@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 I'm currently pursuing a Bachelor of Science in Honors Cybersecurity at Saint Leo University.<br>💻 Passionate about technology, especially in the fields of Robotics and Artificial Intelligence.<br>🛠️ Experienced in programming languages like Java, C++, and Python, and skilled in using tools such as Salesforce and SQL.<br><br>
+📚 I'm currently pursuing a Bachelor of Science in Honors Cybersecurity at Saint Leo University.<br>💻 Passionate about technology, especially in the fields of Robotics, Security and Artificial Intelligence.<br>🛠️ Experienced in programming languages like Java, C++, and Python, and skilled in using tools such as Salesforce and SQL.<br><br>
 
 
 ## 🌐 Socials:
