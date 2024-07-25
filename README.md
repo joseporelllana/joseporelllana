@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hello, I'm Josep!  
+## 🌟 About Me:  
 
-<!--
-**joseporelllana/joseporelllana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 I'm currently pursuing a Bachelor of Science in Honors Cybersecurity at Saint Leo University.  
+💻 Passionate about technology, especially in the fields of Robotics and Artificial Intelligence.  
+🛠️ Experienced in programming languages like Java, C++, and Python, and skilled in using tools such as Salesforce and SQL.  
 
-Here are some ideas to get you started:
+## 🔧 Technical Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programming Languages: Java, C++, Python  
+Operating Systems: Windows, Linux  
+Tools: Salesforce, SQL, Microsoft Office Suites  
+Languages: Fluent in Spanish and English  
+
+## 🔧 Currently Working On..
+TBD
+
+
+## 📫 Let's Connect:  
+
+Feel free to reach out to me via email at josep.orellana@saintleo.edu  
+Connect with me on LinkedIn: https://www.linkedin.com/in/josep-orellana-6168b7219/
