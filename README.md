@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Josep!  
+# 👋 Heyo, I'm Josep!  
 ## 🌟 About Me:  
 
 📚 I'm currently pursuing a Bachelor of Science in Honors Cybersecurity at Saint Leo University.  
